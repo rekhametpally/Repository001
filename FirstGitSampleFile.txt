@@ -1,2 +1,3 @@
 learning GIT
 First entry in my first git Sample file
+Adding one more line of code to make some changes
