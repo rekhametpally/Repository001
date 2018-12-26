@@ -1,0 +1,2 @@
+learning GIT
+First entry in my first git Sample file
